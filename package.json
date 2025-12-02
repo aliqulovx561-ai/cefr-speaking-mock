@@ -1,0 +1,16 @@
+{
+  "name": "multilevel-speaking-app",
+  "version": "1.0.0",
+  "description": "Multilevel Speaking Practice App with Telegram Integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "npx serve .",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.x"
+  }
+}
